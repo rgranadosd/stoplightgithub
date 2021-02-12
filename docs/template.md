@@ -1,8 +1,8 @@
 # template
 
-## <span style="color:#072146"> API: Title </span>
+## <span style="color:#072146"> API: Title X2</span>
 
-`Domain` `Subdomain`
+`Domain` `Subdomain` 
 
 ### <span style="color:#047070"> Descripción General </span>
 
