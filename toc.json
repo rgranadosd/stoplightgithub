@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "type": "item",
+      "title": "template",
+      "uri": "docs/template.md"
+    },
+    {
+      "type": "divider",
+      "title": "APIS"
+    },
+    {
+      "type": "item",
+      "title": "Strategy",
+      "uri": "reference/Strategy.v1.yaml"
+    }
+  ]
+}
