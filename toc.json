@@ -6,6 +6,11 @@
       "uri": "docs/template.md"
     },
     {
+      "type": "item",
+      "title": "ficha tecnica",
+      "uri": "docs/template.md"
+    },
+    {
       "type": "divider",
       "title": "APIS"
     },
